@@ -4,8 +4,8 @@
    vars:
      - vpc_cidr: 10.0.0.0/16
      - vpc_region: us-east-1
-     - vpc_access_key: AKIAZY6P4QRG346TXQ4S
-     - vpc_secret_key: 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
+     - vpc_access_key: 
+     - vpc_secret_key: 
 
 
      - subnet_cidr_1a: 10.0.1.0/28
