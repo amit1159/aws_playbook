@@ -1,6 +1,6 @@
 ---
  - name: aws roles
-   hosts: localhost1
+   hosts: localhost
    vars:
      - vpc_cidr: 10.0.0.0/16
      - vpc_region: us-east-1
